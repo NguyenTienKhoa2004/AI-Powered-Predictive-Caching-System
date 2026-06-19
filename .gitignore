@@ -1,0 +1,13 @@
+wiki_pageviews_raw/
+*.tsv
+*.gz
+
+processed/
+*.csv
+*.npz
+
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
